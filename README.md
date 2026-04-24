@@ -12,29 +12,29 @@ B.Tech AIML Student · Future Software Engineer · Problem Solver
 
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitraj123&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj123&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitraj123&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/yourleetcode?theme=dark&font=Karma" />
 </p>
 
 ---
@@ -85,16 +85,16 @@ B.Tech AIML Student · Future Software Engineer · Problem Solver
 
 ## 📈 Coding Profiles  
 
-- 🔗 LeetCode: https://leetcode.com/YOUR_USERNAME  
-- 🔗 GeeksforGeeks: https://auth.geeksforgeeks.org/user/YOUR_USERNAME  
+- 🔗 LeetCode: https://leetcode.com/yourleetcode  
+- 🔗 GeeksforGeeks  
 - 🔗 Coding Ninjas  
 
 ---
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn  
+- 📧 Email  
 
 ---
 
