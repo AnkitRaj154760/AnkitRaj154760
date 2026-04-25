@@ -84,13 +84,7 @@ B.Tech AIML Student · Future Software Engineer · Problem Solver
 ---
 
 ## 📈 Coding Profiles  
-
-<h2 align="center">💻 Coding Profiles</h2>
-
-<p align="center">
-  🔗 <a href="https://leetcode.com/u/Ankit_Raj1547/" target="_blank">LeetCode Profile</a>
-</p>
----
+- 🔗 LeetCode: https://leetcode.com/u/Ankit_Raj1547/
 
 ## 🤝 Connect With Me  
 
