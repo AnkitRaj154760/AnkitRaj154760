@@ -34,7 +34,7 @@ B.Tech AIML Student · Future Software Engineer · Problem Solver
 
 ## 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode.com/u/Ankit_Raj1547/?theme=dark&font=Karma" />
+  <img src="https://leetcodecard.jacoblin.cool/Ankit_Raj1547?theme=dark&font=Karma" />
 </p>
 
 ---
