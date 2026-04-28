@@ -76,10 +76,12 @@
 <h3>📸 Image Enhancement App</h3>
 
 <p>Streamlit app for image editing, filters, and background removal.</p>
+<a href="https://imageenhancementproject-l9g6ctwwnq8l8qypvbbakv.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 
-
-<a href="https://github.com/AnkitRaj154760/image-enhancement-tool">
+<a href="https://github.com/AnkitRaj154760/Image_Enhancement_Project">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -92,6 +94,9 @@
 <h3>🌐 Age & Gender Detection</h3>
 
 <p>Built a real-time computer vision system to detect faces and predict age and gender from webcam input with 93% face detection accuracy and 88% gender classification accuracy.</p>
+<a href="https://age-gender-detection-model-txmtyfhzdadhfpqe3riop8.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://github.com/AnkitRaj154760/age-gender-detection-model">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
