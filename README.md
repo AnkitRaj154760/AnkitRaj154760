@@ -75,9 +75,7 @@
 
 <p>Streamlit app for image editing, filters, and background removal.</p>
 
-<a href="https://your-demo-link.com">
-  <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
+
 
 <a href="https://github.com/AnkitRaj154760/image-enhancement-tool">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -93,7 +91,7 @@
 
 <p>Built a real-time computer vision system to detect faces and predict age and gender from webcam input with 93% face detection accuracy and 88% gender classification accuracy.</p>
 
-<a href="https://github.com/YOUR_USERNAME/social-media-app">
+<a href="https://github.com/AnkitRaj154760/age-gender-detection-model">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
