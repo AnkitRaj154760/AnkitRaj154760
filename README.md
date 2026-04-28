@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/image-enhancement">
+<a href="https://github.com/AnkitRaj154760/image-enhancement-tool">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
