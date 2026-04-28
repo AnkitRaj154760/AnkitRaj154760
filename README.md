@@ -3,7 +3,9 @@
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&width=600&lines=Future+Software+Engineer;Full+Stack+Developer;Learning+DSA+%26+AI;Building+Real+World+Projects" />
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AnkitRaj154760&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 ---
 
 ### 🚀 About Me
